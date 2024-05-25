@@ -7,3 +7,13 @@ body {
 }
 
 
+.app { 
+	height : 100%;
+	position : relative;
+}
+
+.circle {
+	position: absolute;
+	border : 1px solid black;
+	border-radius: 50%;
+}
